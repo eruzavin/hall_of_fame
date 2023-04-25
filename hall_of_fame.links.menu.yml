@@ -1,0 +1,6 @@
+hall_of_fame.admin:
+  title: 'Настройки модуля "Доска Почета"'
+  description: 'example of how to make an admin settings page link'
+  parent: system.admin_config_development
+  route_name: hall_of_fame.content
+  weight: 100

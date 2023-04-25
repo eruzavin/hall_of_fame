@@ -1,0 +1,7 @@
+hall_of_fame.content:
+  path: '/test'
+  defaults:
+    _controller: '\Drupal\hall_of_fame\Controller\hallOfFameController::hallOfFameView'
+    _title: 'Доска почета'
+  requirements:
+    _permission: 'access content'
