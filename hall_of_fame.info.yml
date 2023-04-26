@@ -1,5 +1,5 @@
 name: Доска почета
-description: Создает страницу "Доска почета" по адресу /test.
+description: Создает страницу "Доска почета" по пути /test.
 package: Custom
 
 type: module
